@@ -16,4 +16,5 @@ printf("enter the marks\n");
 scanf("%f",&s.marks);
 printf("the student details are\n");
 printf("name=%s\n age=%d\n marks=%f\n",s.name,s.age,s.marks);
+printf("hey jude dont make it bad sing sad song and make it better");
 } 
