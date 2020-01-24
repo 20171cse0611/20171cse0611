@@ -18,4 +18,5 @@ printf("the student details are\n");
 printf("name=%s\n age=%d\n marks=%f\n",s.name,s.age,s.marks);
 printf("hey jude dont make it bad sing sad song and make it better");
 printf("varfa napoli");
+  LOOOOOLLLL
 } 
