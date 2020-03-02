@@ -1,0 +1,18 @@
+
+body{ background-color:grey;
+background-image:url("file:///home/student/fa908583773245.5d47355bdd29a.jpg");
+}
+h1{ color:white; margin-left:100px; text-shadow:6px 5px blue;font-size:60px;text-align: center;}
+
+p.one{color:maroon;width="30%";
+border-width:5px ;text-shadow:6px 5px green;font-size:70px;margin-left:200px;border-color:green}
+p.three{color:powderblue;width="70%";border-style:double;border-color:red green blue yellow;font-size:50px;margin:25px 50px 75px 100px;padding:25px; font-weight: 900;text-shadow:6px 5px red;}
+
+div.yo{width:300px;
+	margin:auto;
+	border:1px solid red;
+	font-weight: 1000;
+	font-size:40px;
+	color:maroon;background-color:powderblue;}
+
+div.oo{padding:50px 25px 75px 100px;}
